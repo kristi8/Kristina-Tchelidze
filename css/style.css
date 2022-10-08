@@ -1,0 +1,107 @@
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 18px;
+	margin-left: 20px;
+
+}
+
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 20px;
+	margin-left: 92px;
+}
+.nav-li{
+	display: inline-block;
+}
+.list-item{
+	font-size: 11px;
+	color: #343638;
+
+}
+.image{
+
+	vertical-align: middle;
+}
+.space{
+	
+}
+.space1{
+	margin-left: 27px;
+	margin-right: 22px;
+}
+.space3{
+	margin-left: 22px;
+	margin-right: 40px;
+}
+
+.container{
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160px;
+	
+}
+.left-block{
+	background: red;
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.h1{
+
+	margin-bottom: 40px;
+
+}
+.text-left{
+	width:280px;
+	height: 64px;
+}
+.middle-block{
+	background: gray;
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+.right-block{
+	background: blue;
+	width: 360px;
+	height: 350px;
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+.container2{
+	margin-top: 58px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160;
+}
+.left-block2{
+	display: inline-block;
+	vertical-align: top;
+	width: 760px;
+	margin-right: 35px;
+}
+ 
+.top{
+	
+	margin-bottom: 40px;
+}
+.right-block2{
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+}
+
+.top2{
+	margin-bottom: 102px;
+}
+.middle2{
+	margin-bottom: 102px;
+}
