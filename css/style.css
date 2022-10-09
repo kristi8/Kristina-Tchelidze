@@ -1,19 +1,22 @@
 .logo{
 	display: inline-block;
 	vertical-align: middle;
-	margin-top: 18px;
+
 	margin-left: 20px;
+	margin-right: 92px;
 
 }
 
 .navigation{
 	display: inline-block;
 	vertical-align: middle;
-	margin-top: 20px;
-	margin-left: 92px;
+
+	
+	
 }
 .nav-li{
 	display: inline-block;
+
 }
 .list-item{
 	font-size: 11px;
@@ -23,6 +26,9 @@
 .image{
 
 	vertical-align: middle;
+	
+
+	
 }
 .space{
 	
@@ -44,7 +50,7 @@
 	
 }
 .left-block{
-	background: red;
+
 	width: 360px;
 	height: 350px;
 	display: inline-block;
@@ -53,18 +59,19 @@
 .h1{
 
 	margin-bottom: 40px;
+	font-size: 24px;
 
 }
 .text{
 	width:280px;
 	height: 64px;
 	margin-top: 66px;
-	margin-left: auto;
+	margin-left:auto ;
 	margin-right: auto;
 }
 
 .middle-block{
-	background: gray;
+
 	width: 360px;
 	height: 350px;
 	display: inline-block;
@@ -73,7 +80,7 @@
 	margin-right: 35px;
 }
 .right-block{
-	background: blue;
+
 	width: 360px;
 	height: 350px;
 	display: inline-block;
@@ -92,7 +99,7 @@
 	margin-top: 58px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 1160;
+	width: 1160px;
 }
 .left-block2{
 	display: inline-block;
@@ -116,4 +123,23 @@
 }
 .middle2{
 	margin-bottom: 102px;
+}
+
+/*fixed heder*/
+.header-wraper{
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+
+
+
+}
+/*.section-after-header{
+	margin-top: 30px;
+}*/
+
+.body{
+	padding-top: 30px;
 }
