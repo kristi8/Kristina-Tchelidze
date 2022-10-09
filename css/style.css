@@ -55,9 +55,12 @@
 	margin-bottom: 40px;
 
 }
-.text-left{
+.text{
 	width:280px;
 	height: 64px;
+	margin-top: 66px;
+	margin-left: auto;
+	margin-right: auto;
 }
 .middle-block{
 	background: gray;
