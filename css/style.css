@@ -136,10 +136,17 @@
 
 
 }
-/*.section-after-header{
-	margin-top: 30px;
-}*/
 
 .body{
 	padding-top: 30px;
+}
+.text-image{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.image-wraper{
+	position: relative;
 }
