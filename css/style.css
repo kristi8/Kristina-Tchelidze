@@ -2,7 +2,11 @@
 	display: inline-block;
 	vertical-align: middle;
 	color: #FA6980;
-
+	font-family: 'Helvetica';
+	font-size: 13px;
+	/*width: 38PX;
+	height: 15PX;
+*/
 	margin-left: 20px;
 	margin-right: 92px;
 	margin-top: 18px;
@@ -15,15 +19,18 @@
 	margin-top: 20px;
 
 	
-	
+	   
 }
 .nav-li{
 	display: inline-block;
 
 }
 .list-item{
+	/*width: 64px;
+	height: 12px;*/
 	font-size: 11px;
 	color: #343638;
+	font-family: 'Helvetica';
 
 }
 .image{
@@ -60,8 +67,8 @@
 	display: inline-block;
 	vertical-align: middle;
 }
-.h1{
-
+.p1{
+    font-family: 'Helvetica';
 	margin-bottom: 40px;
 	font-size: 24px;
 
@@ -149,6 +156,7 @@
 	left: 40px;
 	color: #FFFFFF;
 	font-size: 16px;
+	font-family: 'Helvetica';
 }
 .image-wraper{
 	position: relative;
@@ -159,6 +167,7 @@
 	left: 308px;
 	color: #FFFFFF;
 	font-size: 16px;
+	font-family: 'Helvetica';
 }
 .section{
 	margin-top: 75px;
