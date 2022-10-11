@@ -1,15 +1,18 @@
 .logo{
 	display: inline-block;
 	vertical-align: middle;
+	color: #FA6980;
 
 	margin-left: 20px;
 	margin-right: 92px;
+	margin-top: 18px;
 
 }
 
 .navigation{
 	display: inline-block;
 	vertical-align: middle;
+	margin-top: 20px;
 
 	
 	
@@ -26,6 +29,7 @@
 .image{
 
 	vertical-align: middle;
+	margin-top: 11px;
 	
 
 	
@@ -109,7 +113,7 @@
 }
  
 .top{
-	
+	position: relative;
 	margin-bottom: 40px;
 }
 .right-block2{
@@ -126,14 +130,12 @@
 }
 
 /*fixed heder*/
-.header-wraper{
+.header{
 
 	position: fixed;
 	top: 0;
 	left: 0;
 	width: 100%;
-
-
 
 }
 
@@ -149,4 +151,11 @@
 }
 .image-wraper{
 	position: relative;
+}
+.text-image2{
+	position: absolute;
+	top:194px;
+	left: 308px;
+	color: #FFFFFF;
+	font-size: 16px;
 }
