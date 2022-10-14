@@ -117,24 +117,12 @@
 	font-family: 'Acumin Pro';
 	color: #A6ADB4;
 }
-.span1{
+.span{
 	font-family: 'Helvetica';
 	font-size: 13px;
 	color: #A6ADB4;
-	font-weight: bold;
 }
-.span2{
-	font-family: 'Helvetica';
-	font-size: 13px;
-	color: #A6ADB4;
-	font-weight: bold;
-}
-.span3{
-	font-family: 'Helvetica';
-	font-size: 13px;
-	color: #A6ADB4;
-	font-weight: bold;
-}
+
 .icon{
 	margin-right: 10px;
 	vertical-align: middle;
